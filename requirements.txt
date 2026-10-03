@@ -1,6 +1,0 @@
-jieba
-qhchina
-numpy
-matplotlib
-scikit-learn
-plotly
