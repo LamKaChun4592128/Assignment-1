@@ -1,6 +1,6 @@
 - 书名：西游记
 - 作者：吴承恩
-- 来源：https://www.gutenberg.org/cache/epub/23962/pg23962.txt
+- 来源：https://ctext.org/xiyouji
 - `data/`：语料纯文本
 - `output/`：CSV 与 HTML 结果
 - `scripts/`：Python 脚本
