@@ -4,7 +4,7 @@ from collections import Counter
 import jieba
 import matplotlib.pyplot as plt
 
-with open("沉沦.txt", encoding="utf-8-sig") as f:
+with open("data/novel.txt", encoding="utf-8-sig") as f:
     text = f.read()
 
 words = [
